@@ -11,7 +11,7 @@ import java.awt.event.WindowEvent;
 public class TestActionEvent {
 
 	/**
-	 * @param args123
+	 * @param args1232
 	 */
 	public static void main(String[] args) {
 
